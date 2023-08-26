@@ -9,7 +9,7 @@ export default function About() {
           <p style={{"color":"white","fontFamily":"monospace","fontSize":"20px"}}>This project is basic text transformation project which mainly emphasize on 
             State management of an application and use of props .
           </p>
-          <button style={{"background":"#45B8AC","borderRadius":"4px"}} onClick={()=>navigate('/home')} >
+          <button style={{"background":"#45B8AC","borderRadius":"4px"}} onClick={()=>navigate('/')} >
             Go Back
           </button>
         </div>
